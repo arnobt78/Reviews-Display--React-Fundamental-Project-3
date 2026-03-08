@@ -1,3 +1,8 @@
+/**
+ * Static review data. Each object has: id, name, job, image (URL), text (quote).
+ * Import as "people" in App/Alternative and use people[index] for the current review.
+ * No API or backend—replace this array or fetch from an API to change data source.
+ */
 const reviews = [
   {
     id: 1,

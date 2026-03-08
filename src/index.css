@@ -1,4 +1,5 @@
 /* ============= GLOBAL CSS =============== */
+/* Reset and shared design tokens used across the app. */
 
 *,
 ::after,
@@ -12,6 +13,7 @@ html {
   font-size: 100%;
 } /*16px*/
 
+/* Design tokens: use var(--name) in rules. Primary palette + greys + semantic colors. */
 :root {
   /* colors */
   --primary-100: #e2e0ff;
@@ -253,13 +255,16 @@ ul {
   margin-top: 1rem;
 }
 /* ============= PROJECT CSS =============== */
+/* Layout and styles for the reviews card and navigation. */
 
+/* Full-height center container for the single review card. */
 main {
   min-height: 100vh;
   display: grid;
   place-items: center;
 }
 
+/* Card container: fixed max-width, shadow, hover effect. */
 .review {
   width: 90vw;
   max-width: var(--fixed-width);
@@ -273,6 +278,8 @@ main {
 .review:hover {
   box-shadow: var(--shadow-3);
 }
+
+/* Circular avatar; relative so quote-icon can be positioned on top. */
 .img-container {
   position: relative;
   width: 150px;
@@ -289,6 +296,7 @@ main {
   border-radius: 50%;
   position: relative;
 }
+/* Small circle overlay on the avatar (e.g. quote mark icon). */
 .quote-icon {
   position: absolute;
   top: 0;
@@ -329,6 +337,7 @@ main {
   line-height: 1.5;
   color: var(--grey-600);
 }
+/* Prev/Next arrows: transparent background, primary color, hover darkens. */
 .prev-btn,
 .next-btn {
   color: var(--primary-700);
