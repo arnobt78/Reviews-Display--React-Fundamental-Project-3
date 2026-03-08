@@ -1,11 +1,8 @@
+# Reviews Display - React, Vite, CSS, JavaScript, React Icons Fundamental Project 3
 
-<img width="637" alt="Screenshot 2025-02-09 at 02 12 20" src="https://github.com/user-attachments/assets/510475f3-12ea-43bd-a611-35a1142d3ebf" />
+A simple React application that displays user reviews. Users can navigate through the reviews, view a random review, and see the details of each reviewer.
 
-## Reviews Project - React Fundamental Project 3
-
-This project is a simple React application that displays user reviews. Users can navigate through the reviews, view a random review, and see the details of each reviewer.
-
-**Online Live:** https://reviews-arnob.netlify.app/
+- **Live Demo:** []()
 
 ## Setup
 
@@ -16,13 +13,13 @@ This project is a simple React application that displays user reviews. Users can
    cd <repository-directory>
 ```
 
-2. **Install dependencies:**
+1. **Install dependencies:**
 
 ```sh
    npm install
 ```
 
-3. **Run the development server:**
+1. **Run the development server:**
 
 ```sh
    npm run dev
