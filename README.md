@@ -1,4 +1,4 @@
-# Reviews Card Display - React, Vite, CSS, JavaScript, React Icons Fundamental Project 3
+# Reviews Card Display - React, Vite, JavaScript, Custom CSS Fundamental Project 3
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![React](https://img.shields.io/badge/React-18.2-blue)](https://react.dev/)
@@ -11,7 +11,7 @@ A React application that displays user reviews in a card layout. Users can navig
 
 - **Live Demo:** [https://reviews-display.vercel.app/](https://reviews-display.vercel.app/)
 
----
+<img width="1527" height="829" alt="Screenshot 2026-03-10 at 16 27 00" src="https://github.com/user-attachments/assets/27f82b6e-0d13-4859-9283-c2068cdf6d66" />
 
 ## Table of Contents
 
