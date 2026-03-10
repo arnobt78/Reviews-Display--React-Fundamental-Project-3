@@ -11,7 +11,7 @@ A React application that displays user reviews in a card layout. Users can navig
 
 - **Live Demo:** [https://reviews-display.vercel.app/](https://reviews-display.vercel.app/)
 
-<img width="1527" height="829" alt="Screenshot 2026-03-10 at 16 27 00" src="https://github.com/user-attachments/assets/27f82b6e-0d13-4859-9283-c2068cdf6d66" />
+![Screenshot 2026-03-10 at 16 27 00](https://github.com/user-attachments/assets/27f82b6e-0d13-4859-9283-c2068cdf6d66)
 
 ## Table of Contents
 
